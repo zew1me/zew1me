@@ -58,4 +58,4 @@ with an audio concentration; I like tools that do interesting things with sound.
 
 ---
 
-[nigel@solcasasol.com](mailto:nigel@solcasasol.com)
+[nigel@solcasasol.com](mailto:nigel@solcasasol.com) · [github.com/nigel-upstart](https://github.com/nigel-upstart)
