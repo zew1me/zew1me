@@ -8,10 +8,11 @@ I work at the intersection of reliability engineering and applied AI — right n
 engineering stick inside real organizations, not just in demos. 15+ years building and operating distributed systems
 at Microsoft (Teams, IC3, Azure) and Upstart, across both IC and leadership tracks.
 
-My background includes shipping one of the first Azure-hosted services in Skype for Business, EU data boundary
-compliance for 11 Teams services, a $36M/year COGS reduction, and an LLM-powered Slack incident assistant that
-cut postmortem time from two hours to ten minutes. I care about systems that remove toil and make the next
-person's job easier — and that still work when the AI is unavailable.
+My background includes shipping one of the first Azure-hosted services in Skype for Business (which became Microsoft
+Teams), managing service capacity through pandemic-driven compute constraints in Azure while scaling from 35M to 285M
+monthly active users in a matter of months, EU data boundary compliance for 11 Teams services, a $36M/year COGS
+reduction, and an LLM-powered Slack incident assistant that cut postmortem time from two hours to ten minutes. I care
+about systems that remove toil and make the next person's job easier — and that still work when the AI is unavailable.
 
 I build agents the same way I build services: typed interfaces, deterministic fallbacks, observable pipelines.
 
