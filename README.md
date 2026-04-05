@@ -42,6 +42,7 @@ with an audio concentration; I like tools that do interesting things with sound.
 | [telephony-agent](https://github.com/zew1me/telephony-agent) | CLI voice agent: pharmacy inventory research, outbound calls, structured results |
 | [todoist-client](https://github.com/zew1me/todoist-client) | Codex-native daily planner with deterministic Python backend + Todoist cache |
 | [term-workspaces](https://github.com/zew1me/term-workspaces) | Go CLI for task identity linking, session orchestration, SQLite dashboards |
+| [llm-site](https://github.com/zew1me/llm-site) · [largelanguagemusic.com](https://largelanguagemusic.com) | Next.js landing page for Large Language Music, an AI-generated record label |
 | [fitness-coach-agent](https://github.com/zew1me/fitness-coach-agent) | LLM-backed endurance coaching scaffold on Next.js + Vercel |
 | [demucs](https://github.com/zew1me/demucs) | Serverless toolkit around Facebook's Demucs music source separator |
 | [singing-voice](https://github.com/zew1me/singing-voice) | Librosa preprocessing + Seed-VC inference on RunPod |
