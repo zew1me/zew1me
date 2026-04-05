@@ -4,15 +4,16 @@
 
 ---
 
-I work at the intersection of reliability engineering and applied AI — right now focused on making AI-assisted
-engineering stick inside real organizations, not just in demos. 15+ years building and operating distributed systems
-at Microsoft (Teams, IC3, Azure) and Upstart, across both IC and leadership tracks.
+I help engineering organizations actually adopt AI — not evaluate it, not pilot it, but make it part of how work gets
+done. My focus is agentic patterns and practices that automate away toil and free people up for the work that actually
+requires them.
 
-My background includes shipping one of the first Azure-hosted services in Skype for Business (which became Microsoft
-Teams), managing service capacity through pandemic-driven compute constraints in Azure while scaling from 35M to 285M
-monthly active users in a matter of months, EU data boundary compliance for 11 Teams services, a $36M/year COGS
-reduction, and an LLM-powered Slack incident assistant that cut postmortem time from two hours to ten minutes. I care
-about systems that remove toil and make the next person's job easier — and that still work when the AI is unavailable.
+The foundation is 15+ years of building and operating distributed systems at Microsoft and Upstart: shipping one of
+the first Azure-hosted services in Skype for Business (which became Microsoft Teams), managing capacity through
+pandemic-driven compute constraints while scaling from 35M to 285M monthly active users, EU data boundary compliance
+for 11 Teams services, a $36M/year COGS reduction, and an LLM-powered Slack incident assistant that cut postmortem
+time from two hours to ten minutes. That background shapes how I think — high-quality, maintainable, understandable
+software that scales — but the work now is about using that lens to help others move faster with agents.
 
 I build agents the same way I build services: typed interfaces, deterministic fallbacks, observable pipelines.
 
@@ -20,12 +21,13 @@ I build agents the same way I build services: typed interfaces, deterministic fa
 
 ## What I Build
 
-**AI Adoption & Agentic Tooling** — end-to-end agent workflows for real engineering contexts: voice pipelines,
-Slack assistants, planning systems, internal agent marketplaces. I've shipped agentic tooling at two orgs and believe
-the bottleneck is workflow integration, not model capability.
+**AI Adoption & Agentic Engineering** — helping teams move from "we tried a demo" to "this is how we work now."
+End-to-end agent workflows for real engineering contexts: voice pipelines, Slack assistants, planning systems,
+internal agent marketplaces. The bottleneck is almost never the model — it's workflow integration and trust.
 
-**Reliability & Platform Engineering** — incident programs, SLO frameworks, observability modernization, and the
-operational rigor that lets teams scale without proportional toil growth.
+**Toil Elimination** — finding the work that shouldn't require a human and building the agent that removes it.
+Backed by deep experience in incident management, observability, and platform engineering; I know where the toil
+actually lives.
 
 **Audio & ML** — music source separation, singing voice synthesis, MIDI extraction. Side effect of an EE degree
 with an audio concentration; I like tools that do interesting things with sound.
