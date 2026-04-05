@@ -1,0 +1,11 @@
+{
+  "name": "zew1me-profile",
+  "private": true,
+  "scripts": {
+    "lint:md": "markdownlint '**/*.md' --ignore node_modules"
+  },
+  "devDependencies": {
+    "lefthook": "^1.11.0",
+    "markdownlint-cli": "^0.43.0"
+  }
+}
