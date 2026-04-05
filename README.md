@@ -52,8 +52,8 @@ with an audio concentration; I like tools that do interesting things with sound.
 ## Stack
 
 **Languages:** Python (uv) · Go · TypeScript
-**AI / Agents:** OpenAI · Claude · Codex SDK
-**Infra:** Azure · Kubernetes · Vercel · Fly.io · Datadog
+**AI / Agents:** OpenAI · Claude · Codex · PyTorch · RunPod
+**Infra:** Vercel · Supabase · Twilio · AWS
 **Tooling:** lefthook · biome · SQLite · Obsidian
 
 ---
